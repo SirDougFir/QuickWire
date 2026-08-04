@@ -32,9 +32,7 @@ Installation:
 
 ## Demonstration
 
-Watch the GIF demonstration:
-
-[QuickWire Demo](images/QuickWire_1.0.0_demoShort.gif)
+![QuickWire Demo](images/QuickWire_1.0.0_demoShort.gif)
 
 Higher-quality version:
 
