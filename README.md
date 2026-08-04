@@ -29,3 +29,9 @@ Installation:
 - `\` — Toggle the active geometry object.
 - `Shift + \` — Toggle selected geometry objects.
 - `Ctrl + \` — Toggle all visible geometry objects.
+
+## Demonstration
+
+Watch the demonstration:
+
+[QuickWire Demo (MP4)](images/QuickWire_1.0.0_0010001-0341.mp4)
