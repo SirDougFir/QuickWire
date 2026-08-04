@@ -34,4 +34,8 @@ Installation:
 
 Watch the demonstration:
 
-[QuickWire Demo (MP4)](images/QuickWire_1.0.0_demo.mp4)
+[QuickWire Demo (MP4)](images/QuickWire_1.0.0_demoShort.gif)
+
+High-quality version:
+
+[MP4](images/quickwire_demo.mp4)
