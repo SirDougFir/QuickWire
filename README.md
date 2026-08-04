@@ -32,10 +32,10 @@ Installation:
 
 ## Demonstration
 
-Watch the demonstration:
+Watch the GIF demonstration:
 
-[QuickWire Demo (MP4)](images/QuickWire_1.0.0_demoShort.gif)
+[QuickWire Demo](images/QuickWire_1.0.0_demoShort.gif)
 
-High-quality version:
+Higher-quality version:
 
 [MP4](images/quickwire_demo.mp4)
