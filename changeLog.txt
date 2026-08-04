@@ -1,0 +1,26 @@
+# Changelog
+
+All notable changes to QuickWire are documented in this file.
+
+---
+
+## [1.0.0] - 2026-08-03
+
+### Added
+- Initial public release.
+- Toggle wireframe visibility for the active geometry object.
+- Toggle wireframe visibility for selected geometry objects.
+- Toggle wireframe visibility for all visible geometry objects.
+- User-configurable keyboard shortcuts through Blender's Keymap editor.
+- Optional preference to synchronize Blender's "All Edges" display with wireframe visibility.
+
+### Design
+- Keyboard-driven workflow.
+- Geometry-only operation (Mesh, Curve, Surface, Font, Meta).
+- No N-panel, buttons, or viewport interface.
+- No armature support by design.
+
+### Credits
+- Inspired by Meshlogic's "Toggle Object Wire" (2017).
+- Also inspiration from 3dsMax F3 key
+- Modernized and redesigned for Blender 5.2+ by Sir Doug Fir & ChatGPT.
