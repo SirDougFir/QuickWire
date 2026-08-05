@@ -1,9 +1,10 @@
 """
 QuickWire 1.0.0
 
-A lightweight viewport utility for Blender 5.2+ that toggles wireframe
-visibility for one, several, or all visible geometry objects using
-customizable keyboard shortcuts.
+A lightweight viewport utility (via a single .py file) for Blender 5.2+ 
+that toggles wireframe visibility for one, several, or all visible 
+geometry objects using customizable keyboard shortcuts with default 
+set to \\.  NOTE: the Overlays > Wireframe checkbox should be unmarked.
 
 Original concept:
     Toggle Object Wire v0.1
@@ -47,8 +48,9 @@ bl_info = {
     "blender": (5, 2, 0),
     "location": "3D View",
     "description": (
-        "Toggle wireframe visibility for one, several, or all visible "
-        "geometry objects using customizable keyboard shortcuts."
+        "Toggle wireframe visibility for one/several/all visible "
+        "geometry objects using \\. NOTE: Overlays > Wireframe checkbox "
+		"should be unmarked."
     ),
     "category": "3D View",
 }
